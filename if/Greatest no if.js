@@ -1,6 +1,6 @@
 //Write  a program to check a gratest number in given two numbers// 
-var x=23;
-var y=32;
+var x=32;
+var y=23;
 if(x>=y){
     console.log("x is a gratest number")
 }
