@@ -1,5 +1,5 @@
 //Write  a program to check a Least number in given three numbers// 
-var x=10;
+var x=14;
 var y=32;
 var z=12;
 if(x<y && x<z){
