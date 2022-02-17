@@ -1,11 +1,11 @@
 //  Rectangle star
-//  var n=5;
-// for(i=0;i<=5;i=i+1){
-//   for(j=0;j<=5;j=j+1){
-//    console.log("* ")
-// }
-  
-// }
+ var n=5;
+for(i=0;i<=5;i=i+1){
+  for(j=0;j<=5;j=j+1){
+   console.log(" * ")
+}
+
+ }
 
 // let a=5;
 // let b=10;
